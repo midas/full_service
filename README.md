@@ -1,6 +1,7 @@
 # FullService
 
-TODO: Write a gem description
+A set of utilities to aid in implementing services/workflows in Ruby applications.
+
 
 ## Installation
 
@@ -16,9 +17,11 @@ Or install it yourself as:
 
     $ gem install full_service
 
+
 ## Usage
 
 TODO: Write usage instructions here
+
 
 ## Contributing
 
